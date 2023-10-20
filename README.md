@@ -1,7 +1,6 @@
 Maxim Joel Carbonell-Kiamtia
 mjcarbon
-Fall 2022
-asgn1
+
 
 ---------------------
 DESCRIPTION: This directory is for the purposes of starting an httpserver on a particular port number that can take in reqeusts from a different terminal i.e. GET, HEAD, and PUT. 
